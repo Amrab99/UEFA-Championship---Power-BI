@@ -1,7 +1,7 @@
 UEFA Championship Dashboard
 This Power BI dashboard provides an insightful overview of key performance metrics from the UEFA Championship. It is designed to allow users to easily explore and analyze the performance of different teams across various statistical categories.
 
-![Sales Dashboard](images/sales%20dashboard.jpg)
+![Sales Dashboard](images/Screenshot%202024-08-21%20140627.jpg)
 
 Dashboard Highlights:
 Team Selection Panel:
